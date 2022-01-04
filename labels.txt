@@ -1,0 +1,126 @@
+﻿apron
+backpack
+bag 
+balloon
+ballpoint
+barbell
+baseball
+basketball
+bath towel
+beaker
+beer bottle
+beer glass
+binoculars
+bottlecap
+broom
+bucket 
+can opener
+candle
+canteen
+cap opener
+carton
+cellular telephone
+cheeseburger
+chocolate sauce
+coffee mug
+coffeepot
+comic book
+computer keyboard
+corkscrew
+cucumber
+cup
+diaper
+digital watch
+dishrag
+drumstick
+eggbeater
+envelope
+fountain pen
+frying pan
+fur coat
+goblet
+golf ball
+hair spray
+hammer 
+hand blower
+hand calculator
+handkerchief
+hipflask
+hotdog
+iPod
+ice cream
+ice lolly
+jean 
+jersey
+joystick
+lab coat
+ladle 
+laptop
+lighter
+lipstick
+lotion
+magnetic compass
+mallet 
+mask
+matchstick
+measuring cup
+microwave
+mitten
+mixing bowl
+mouse 
+necklace
+notebook
+omelet pan
+packet
+paintbrush
+pajama
+paper towel
+pencil box
+pencil sharpener
+pill bottle
+pillow
+ping-pong ball
+plastic bag
+plate rack
+plate
+polo shirt
+pop bottle
+puck
+purse
+racket
+remote control
+rubber eraser
+rugby ball
+rule
+running shoe
+saltshaker
+sandal
+screw
+screwdriver
+seat belt
+shaver
+short pants
+shovel
+sliding door
+soap dispenser
+sock
+soup bowl
+spatula
+stopwatch 
+swimming trunks
+table-tennis racquet
+teapot
+tennis ball
+toaster
+trench coat
+vacuum
+vending machine
+volleyball
+waffle iron
+wallet
+water bottle
+water jug
+whistle
+wig 
+wine bottle 
+wooden spoon
